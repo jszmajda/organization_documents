@@ -1,6 +1,7 @@
 ### Document Purpose
 
 This document exists to share what Codes of Conduct are and why communities choose to include them.
+This document strives for simple, short language.
 This document attempts to be a reference only and not to select a political stance.
 
 # What is a Code of Conduct?
