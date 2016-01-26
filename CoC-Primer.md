@@ -27,7 +27,7 @@ As they reflect their communities, they are very diverse and have varied purpose
 For example, the [MIT license][MITLicense] basically says "do whatever you want with this software, I won't help or hinder you".
 The [GPL license][GPLLicense] on the other hand subverts copyright to promote open source ideology (copyleft). CoCs can be the same way.
 
-<some CoC examples and analysis>
+(TODO: some CoC examples and analysis)
 
 ## Enforcement of a CoC
 
@@ -38,7 +38,7 @@ With enforcement we define a community.
 
 ## Common elements of CoCs
 
-<research needed. Why promote specific attributes of people? Why address identity?>
+(TODO: research needed. What are the goals of promoting specific attributes of people? Why address identity?)
 
 [MITLicense]: https://en.wikipedia.org/wiki/MIT_License
 [GPLLicense]: https://en.wikipedia.org/wiki/GNU_General_Public_License
