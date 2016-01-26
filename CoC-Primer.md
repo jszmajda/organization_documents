@@ -1,3 +1,8 @@
+### Document Purpose
+
+This document exists to share what Codes of Conduct are and why communities choose to include them.
+This document attempts to be a reference only and not to select a political stance.
+
 # What is a Code of Conduct?
 
 A Code of Conduct (CoC) is a document that defines what a community finds acceptable and not acceptable.
